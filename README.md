@@ -49,3 +49,9 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Backend+%26+Game+Dev;Amante+de+Python+y+los+algoritmos" alt="Typing SVG" />
 </p>
+### 🎵 Escuchando ahora
+<div align="center">
+  <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=123&cover_image=https://i.scdn.co/image/ab67616d0000b273eeb9ddec530eb7bfa2b39b0a&theme=novatorem&show_offline=true&background_color=121212&title=Welcome+To+The+Black+Parade&artist=My+Chemical+Romance" alt="Reproductor Spotify My Chemical Romance" width="350"/>
+  </a>
+</div>
