@@ -12,7 +12,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 ## 🚀 Sobre mí
 <p align="center">
-  <img src="[https://media.giphy.com/media/uWzS6ZLs0AaVO/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHg1djZsNXkwYzVxY3FqaDMxOGU0cnc3azBiazZqZnpwNThobGozaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif)" width="600px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHg1djZsNXkwYzVxY3FqaDMxOGU0cnc3azBiazZqZnpwNThobGozaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" width="500px">
 </p>
 
 - 🎓 Estudiante de Ingeniería de Sistemas en la Universidad de los Llanos.
@@ -46,10 +46,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 ---
-
-## 📊 Estadísticas y Actividad
-
+###Contribuciones Tetris XD
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dassg-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassg-xd&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/JonathanBarakat/github-profile-tetris/raw/output/github-tetris-dark.svg" alt="GitHub Tetris Game" />
 </div>
