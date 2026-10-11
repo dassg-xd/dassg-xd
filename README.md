@@ -46,7 +46,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 ---
-###Contribuciones Tetris XD
+### 🎮 Stats de RPG
 <div align="center">
-  <img src="https://github.com/JonathanBarakat/github-profile-tetris/raw/output/github-tetris-dark.svg" alt="GitHub Tetris Game" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dassg-xd&theme=radical" alt="RPG Stats" />
 </div>
