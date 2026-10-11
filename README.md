@@ -49,7 +49,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 ---
 
-### 🐾 Compañero de Código
+###
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="150" />
 </div>
@@ -73,4 +73,9 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dassg-xd/dassg-xd/output/github-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/output/github-snake.svg">
   </picture>
+</div>
+
+### 🎮 Stats de RPG
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dassg-xd&theme=radical" alt="RPG Stats" />
 </div>
