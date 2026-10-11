@@ -20,7 +20,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 - 🎮 **Game Dev:** Interés en desarrollo de videojuegos y lógica de programación.
 - 🌱 **Aprendiendo actualmente:** Desarrollo web (Fetch API, async/await), bases de datos y metodologías ágiles.
 - 📊 **Intereses:** Ciencia de datos, procesamiento de señales y análisis numérico.
-- 📫 **Cómo contactarme:** A través de mis repositorios o redes.
+- 📫 **Cómo contactarme:** santiagosantos2207@gmail.com
 
 ---
 
