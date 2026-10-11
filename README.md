@@ -56,11 +56,11 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 ---
 
-### 🎵 Escuchando ahora
+### 🎵 Mi Himno
 
 <div align="center">
-  <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF?si=8072c379294246d4" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1&cover_image=https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b&theme=novatorem&show_offline=true&background_color=121212&title=Cherry+Waves&artist=Deftones" alt="Spotify" width="350"/>
+  <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF" target="_blank">
+    <img src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/main/cherry-waves.png" alt="Deftones - My Own Summer" width="300"/>
   </a>
 </div>
 
