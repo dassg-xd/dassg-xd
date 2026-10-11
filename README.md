@@ -23,6 +23,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 - 📫 **Cómo contactarme:** santiagosantos2207@gmail.com
 
 ---
+
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes
@@ -45,18 +46,28 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
+
 ---
+
 ### 🐾 Compañero de Código
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="150" />
 </div>
+
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Backend+%26+Game+Dev;Amante+de+Python+y+los+algoritmos" alt="Typing SVG" />
-</p>
+
 ### 🎵 Escuchando ahora
+
 <div align="center">
-  <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=123&cover_image=https://i.scdn.co/image/ab67616d0000b273eeb9ddec530eb7bfa2b39b0a&theme=novatorem&show_offline=true&background_color=121212&title=Welcome+To+The+Black+Parade&artist=My+Chemical+Romance" alt="Reproductor Spotify My Chemical Romance" width="350"/>
+  <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF?si=8072c379294246d4" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1&cover_image=https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b&theme=novatorem&show_offline=true&background_color=121212&title=Cherry+Waves&artist=Deftones" alt="Spotify" width="350"/>
   </a>
+</div>
+
+---
+
+## 📊 Estadísticas y Actividad
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dassg-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
