@@ -46,7 +46,6 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 ---
-### 🎮 Stats de RPG
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dassg-xd&theme=radical" alt="RPG Stats" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Backend+%26+Game+Dev;Amante+de+Python+y+los+algoritmos" alt="Typing SVG" />
+</p>
