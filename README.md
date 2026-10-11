@@ -66,8 +66,11 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 ---
 
-## 📊 Estadísticas y Actividad
-
+### 🐍 Mis Contribuciones
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dassg-xd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dassg-xd/dassg-xd/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dassg-xd/dassg-xd/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/output/github-snake.svg">
+  </picture>
 </div>
