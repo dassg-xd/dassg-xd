@@ -60,7 +60,7 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 
 <div align="center">
   <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF" target="_blank">
-    <img src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/main/cherry-waves.png" alt="Deftones - My Own Summer" width="300"/>
+    <img src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/main/assets/cassette.svg" alt="Cherry Waves - Deftones" width="680"/>
   </a>
 </div>
 
