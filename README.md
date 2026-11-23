@@ -59,8 +59,6 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador de software enfocado e
 ### 🎵 Mi Himno
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/main/assets/player.mp4" width="260" controls></video>
-
   <a href="https://open.spotify.com/intl-es/track/1158ckiB5S4cpsdYHDB9IF" target="_blank">
     <img src="https://raw.githubusercontent.com/dassg-xd/dassg-xd/main/assets/mp4-player.svg" alt="Cherry Waves - Deftones" width="260"/>
   </a>
